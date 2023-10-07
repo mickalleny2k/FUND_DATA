@@ -9,10 +9,13 @@ def f(x):
             return (x * 3) + 1
         
 def collatz(x):
+     print()
      print(f'Testing Collatz with initial value {x}')
      while x != 1:
           x=f(x)
-          print(x)
+          print(x, end=" ")
 
-collatz(5)
-        
+x=10000
+while x>=1:
+    collatz(x)
+    x=x-1
