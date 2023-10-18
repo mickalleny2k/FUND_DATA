@@ -18,4 +18,4 @@ def collatz(x):
 x=10000
 while x>=1:
     collatz(x)
-    x=x-1
+    x-=1
