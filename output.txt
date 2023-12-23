@@ -210,3 +210,272 @@ max     4.000000  11.70000   4.700000
 9   15.000000    8.0    1.4  
 10   7.500000    9.1    1.3  
 
+                                         THE FIRST 10 ROWS : 
+    sepal_length  sepal_width  petal_length  petal_width species  sl*sw  \
+0            5.1          3.5           1.4          0.2  setosa  17.85   
+1            4.9          3.0           1.4          0.2  setosa  14.70   
+2            4.7          3.2           1.3          0.2  setosa  15.04   
+3            4.6          3.1           1.5          0.2  setosa  14.26   
+4            5.0          3.6           1.4          0.2  setosa  18.00   
+5            5.4          3.9           1.7          0.4  setosa  21.06   
+6            4.6          3.4           1.4          0.3  setosa  15.64   
+7            5.0          3.4           1.5          0.2  setosa  17.00   
+8            4.4          2.9           1.4          0.2  setosa  12.76   
+9            4.9          3.1           1.5          0.1  setosa  15.19   
+10           5.4          3.7           1.5          0.2  setosa  19.98   
+
+        pl/pw  sl+sw  pl-pw  
+0    7.000000    8.6    1.2  
+1    7.000000    7.9    1.2  
+2    6.500000    7.9    1.1  
+3    7.500000    7.7    1.3  
+4    7.000000    8.6    1.2  
+5    4.250000    9.3    1.3  
+6    4.666667    8.0    1.1  
+7    7.500000    8.4    1.3  
+8    7.000000    7.3    1.2  
+9   15.000000    8.0    1.4  
+10   7.500000    9.1    1.3  
+
+                                         THE FIRST 10 ROWS : 
+    sepal_length  sepal_width  petal_length  petal_width species  sl*sw  \
+0            5.1          3.5           1.4          0.2  setosa  17.85   
+1            4.9          3.0           1.4          0.2  setosa  14.70   
+2            4.7          3.2           1.3          0.2  setosa  15.04   
+3            4.6          3.1           1.5          0.2  setosa  14.26   
+4            5.0          3.6           1.4          0.2  setosa  18.00   
+5            5.4          3.9           1.7          0.4  setosa  21.06   
+6            4.6          3.4           1.4          0.3  setosa  15.64   
+7            5.0          3.4           1.5          0.2  setosa  17.00   
+8            4.4          2.9           1.4          0.2  setosa  12.76   
+9            4.9          3.1           1.5          0.1  setosa  15.19   
+10           5.4          3.7           1.5          0.2  setosa  19.98   
+
+        pl/pw  sl+sw  pl-pw  
+0    7.000000    8.6    1.2  
+1    7.000000    7.9    1.2  
+2    6.500000    7.9    1.1  
+3    7.500000    7.7    1.3  
+4    7.000000    8.6    1.2  
+5    4.250000    9.3    1.3  
+6    4.666667    8.0    1.1  
+7    7.500000    8.4    1.3  
+8    7.000000    7.3    1.2  
+9   15.000000    8.0    1.4  
+10   7.500000    9.1    1.3  
+
+                                         THE LAST 10 ROWS : 
+     sepal_length  sepal_width  petal_length  petal_width    species  sl*sw  \
+140           6.7          3.1           5.6          2.4  virginica  20.77   
+141           6.9          3.1           5.1          2.3  virginica  21.39   
+142           5.8          2.7           5.1          1.9  virginica  15.66   
+143           6.8          3.2           5.9          2.3  virginica  21.76   
+144           6.7          3.3           5.7          2.5  virginica  22.11   
+145           6.7          3.0           5.2          2.3  virginica  20.10   
+146           6.3          2.5           5.0          1.9  virginica  15.75   
+147           6.5          3.0           5.2          2.0  virginica  19.50   
+148           6.2          3.4           5.4          2.3  virginica  21.08   
+149           5.9          3.0           5.1          1.8  virginica  17.70   
+
+        pl/pw  sl+sw  pl-pw  
+140  2.333333    9.8    3.2  
+141  2.217391   10.0    2.8  
+142  2.684211    8.5    3.2  
+143  2.565217   10.0    3.6  
+144  2.280000   10.0    3.2  
+145  2.260870    9.7    2.9  
+146  2.631579    8.8    3.1  
+147  2.600000    9.5    3.2  
+148  2.347826    9.6    3.1  
+149  2.833333    8.9    3.3  
+
+                                         THE LAST 10 ROWS : 
+     sepal_length  sepal_width  petal_length  petal_width    species  sl*sw  \
+140           6.7          3.1           5.6          2.4  virginica  20.77   
+141           6.9          3.1           5.1          2.3  virginica  21.39   
+142           5.8          2.7           5.1          1.9  virginica  15.66   
+143           6.8          3.2           5.9          2.3  virginica  21.76   
+144           6.7          3.3           5.7          2.5  virginica  22.11   
+145           6.7          3.0           5.2          2.3  virginica  20.10   
+146           6.3          2.5           5.0          1.9  virginica  15.75   
+147           6.5          3.0           5.2          2.0  virginica  19.50   
+148           6.2          3.4           5.4          2.3  virginica  21.08   
+149           5.9          3.0           5.1          1.8  virginica  17.70   
+
+        pl/pw  sl+sw  pl-pw  
+140  2.333333    9.8    3.2  
+141  2.217391   10.0    2.8  
+142  2.684211    8.5    3.2  
+143  2.565217   10.0    3.6  
+144  2.280000   10.0    3.2  
+145  2.260870    9.7    2.9  
+146  2.631579    8.8    3.1  
+147  2.600000    9.5    3.2  
+148  2.347826    9.6    3.1  
+149  2.833333    8.9    3.3  
+
+                                         RANDOM SAMPLE OF 10 ROWS : 
+     sepal_length  sepal_width  petal_length  petal_width     species  sl*sw  \
+0             5.1          3.5           1.4          0.2      setosa  17.85   
+100           6.3          3.3           6.0          2.5   virginica  20.79   
+56            6.3          3.3           4.7          1.6  versicolor  20.79   
+1             4.9          3.0           1.4          0.2      setosa  14.70   
+138           6.0          3.0           4.8          1.8   virginica  18.00   
+128           6.4          2.8           5.6          2.1   virginica  17.92   
+113           5.7          2.5           5.0          2.0   virginica  14.25   
+132           6.4          2.8           5.6          2.2   virginica  17.92   
+2             4.7          3.2           1.3          0.2      setosa  15.04   
+15            5.7          4.4           1.5          0.4      setosa  25.08   
+
+        pl/pw  sl+sw  pl-pw  
+0    7.000000    8.6    1.2  
+100  2.400000    9.6    3.5  
+56   2.937500    9.6    3.1  
+1    7.000000    7.9    1.2  
+138  2.666667    9.0    3.0  
+128  2.666667    9.2    3.5  
+113  2.500000    8.2    3.0  
+132  2.545455    9.2    3.4  
+2    6.500000    7.9    1.1  
+15   3.750000   10.1    1.1  
+
+                                         RANDOM SAMPLE OF 10 ROWS : 
+     sepal_length  sepal_width  petal_length  petal_width     species  sl*sw  \
+41            4.5          2.3           1.3          0.3      setosa  10.35   
+138           6.0          3.0           4.8          1.8   virginica  18.00   
+59            5.2          2.7           3.9          1.4  versicolor  14.04   
+133           6.3          2.8           5.1          1.5   virginica  17.64   
+50            7.0          3.2           4.7          1.4  versicolor  22.40   
+96            5.7          2.9           4.2          1.3  versicolor  16.53   
+93            5.0          2.3           3.3          1.0  versicolor  11.50   
+139           6.9          3.1           5.4          2.1   virginica  21.39   
+67            5.8          2.7           4.1          1.0  versicolor  15.66   
+92            5.8          2.6           4.0          1.2  versicolor  15.08   
+
+        pl/pw  sl+sw  pl-pw  
+41   4.333333    6.8    1.0  
+138  2.666667    9.0    3.0  
+59   2.785714    7.9    2.5  
+133  3.400000    9.1    3.6  
+50   3.357143   10.2    3.3  
+96   3.230769    8.6    2.9  
+93   3.300000    7.3    2.3  
+139  2.571429   10.0    3.3  
+67   4.100000    8.5    3.1  
+92   3.333333    8.4    2.8  
+
+            sepal_length  sepal_width  petal_length  petal_width    sl*sw  \
+species                                                                     
+setosa             5.006        3.418         1.464        0.244  17.2088   
+versicolor         5.936        2.770         4.260        1.326  16.5262   
+virginica          6.588        2.974         5.552        2.026  19.6846   
+
+               pl/pw  sl+sw  pl-pw  
+species                             
+setosa      7.078000  8.424  1.220  
+versicolor  3.242837  8.706  2.934  
+virginica   2.780662  9.562  3.526  
+                                         THE STANDARD DEVIATION OF EACH SPECIES : 
+            sepal_length  sepal_width  petal_length  petal_width     sl*sw  \
+species                                                                      
+setosa          0.352490     0.381024      0.173511     0.107210  2.947688   
+versicolor      0.516171     0.313798      0.469911     0.197753  2.866882   
+virginica       0.635880     0.322497      0.551895     0.274650  3.458783   
+
+               pl/pw     sl+sw     pl-pw  
+species                                   
+setosa      3.123779  0.685583  0.173793  
+versicolor  0.312456  0.731621  0.337222  
+virginica   0.407367  0.834190  0.531386  
+
+                                         THE STANDARD DEVIATION OF EACH SPECIES : 
+            sepal_length  sepal_width  petal_length  petal_width     sl*sw  \
+species                                                                      
+setosa          0.352490     0.381024      0.173511     0.107210  2.947688   
+versicolor      0.516171     0.313798      0.469911     0.197753  2.866882   
+virginica       0.635880     0.322497      0.551895     0.274650  3.458783   
+
+               pl/pw     sl+sw     pl-pw  
+species                                   
+setosa      3.123779  0.685583  0.173793  
+versicolor  0.312456  0.731621  0.337222  
+virginica   0.407367  0.834190  0.531386  
+
+                                         THE STANDARD DEVIATION OF EACH SPECIES : 
+            sepal_length  sepal_width  petal_length  petal_width     sl*sw  \
+species                                                                      
+setosa          0.352490     0.381024      0.173511     0.107210  2.947688   
+versicolor      0.516171     0.313798      0.469911     0.197753  2.866882   
+virginica       0.635880     0.322497      0.551895     0.274650  3.458783   
+
+               pl/pw     sl+sw     pl-pw  
+species                                   
+setosa      3.123779  0.685583  0.173793  
+versicolor  0.312456  0.731621  0.337222  
+virginica   0.407367  0.834190  0.531386  
+
+                                         THE MEDIAN OF EACH SPECIES : 
+            sepal_length  sepal_width  petal_length  petal_width   sl*sw  \
+species                                                                    
+setosa               5.0          3.4          1.50          0.2  17.000   
+versicolor           5.9          2.8          4.35          1.3  16.385   
+virginica            6.5          3.0          5.55          2.0  20.060   
+
+               pl/pw  sl+sw  pl-pw  
+species                             
+setosa      7.000000    8.4    1.2  
+versicolor  3.240385    8.6    3.0  
+virginica   2.666667    9.6    3.4  
+
+                                         THE MAX OF EACH SPECIES : 
+            sepal_length  sepal_width  petal_length  petal_width  sl*sw  \
+species                                                                   
+setosa               5.8          4.4           1.9          0.6  25.08   
+versicolor           7.0          3.4           5.1          1.8  22.40   
+virginica            7.9          3.8           6.9          2.5  30.02   
+
+            pl/pw  sl+sw  pl-pw  
+species                          
+setosa       15.0   10.1    1.7  
+versicolor    4.1   10.2    3.5  
+virginica     4.0   11.7    4.7  
+
+                                         THE MAX OF EACH SPECIES : 
+            sepal_length  sepal_width  petal_length  petal_width  sl*sw  \
+species                                                                   
+setosa               5.8          4.4           1.9          0.6  25.08   
+versicolor           7.0          3.4           5.1          1.8  22.40   
+virginica            7.9          3.8           6.9          2.5  30.02   
+
+            pl/pw  sl+sw  pl-pw  
+species                          
+setosa       15.0   10.1    1.7  
+versicolor    4.1   10.2    3.5  
+virginica     4.0   11.7    4.7  
+
+                                         THE MIN OF EACH SPECIES : 
+            sepal_length  sepal_width  petal_length  petal_width  sl*sw  \
+species                                                                   
+setosa               4.3          2.3           1.0          0.1  10.35   
+versicolor           4.9          2.0           3.0          1.0  10.00   
+virginica            4.9          2.2           4.5          1.4  12.25   
+
+               pl/pw  sl+sw  pl-pw  
+species                             
+setosa      2.666667    6.8    0.8  
+versicolor  2.666667    7.0    1.9  
+virginica   2.125000    7.4    2.7  
+
+                                         THE SUM OF EACH SPECIES : 
+            sepal_length  sepal_width  petal_length  petal_width   sl*sw  \
+species                                                                    
+setosa             250.3        170.9          73.2         12.2  860.44   
+versicolor         296.8        138.5         213.0         66.3  826.31   
+virginica          329.4        148.7         277.6        101.3  984.23   
+
+                 pl/pw  sl+sw  pl-pw  
+species                               
+setosa      353.900000  421.2   61.0  
+versicolor  162.141847  435.3  146.7  
+virginica   139.033117  478.1  176.3  
+
