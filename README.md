@@ -22,11 +22,30 @@ set
 
 ## INSTRUCTIONS
 
-## How to clone and run notebooks
-1. Install Anaconda
+## How to clone and run notebook
+1. Download and Install Anaconda. Here's the link:
+https://www.anaconda.com/download/
 
-2) Install Visual Studio Code
+2)Download and Install Visual Studio Code. Here's the link:
+https://code.visualstudio.com/
 
-3) Clone Repository
+3) Clone Repository as follows:
+https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
 4) Open Repository in Visual Studio Code
+https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_open-a-git-repository
+
+5) Alternatively you can open the repository in a Jupyter notebook.
+Refer to these snapshots for a step-by-step guide:
+
+Step 1:
+
+![Step_1](./img/Step_1.PNG)
+
+Step 2:
+
+![Step_2](./img/Step_2.PNG)
+
+Step 3:
+
+![Step_3](./img/Step_3.PNG)
