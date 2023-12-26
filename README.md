@@ -1,4 +1,4 @@
-# FUND_DATA
+# FUNDAMENTALS of DATA ANALYTICS
 
 # PROJECT by Michael Allen
 ## INTRODUCTION
@@ -10,14 +10,14 @@ data points within the well-known iris flower data set associated
 with Ronald A Fisher.
 
 ## CONTENTS
-• In the notebook, you should discuss the classification of each
+• In the notebook, I discuss the classification of each
 variable within the data set according to common variable types
 and scales of measurement in mathematics, statistics, and Python.
 • Select, demonstrate, and explain the most appropriate summary
 statistics to describe each variable.
 • Select, demonstrate, and explain the most appropriate plot(s) for
 each variable
-• The notebook should follow a cohesive narrative about the data
+• The notebook follows a cohesive narrative about the data
 set
 
 ## INSTRUCTIONS
@@ -26,7 +26,7 @@ set
 1. Download and Install Anaconda. Here's the link:
 https://www.anaconda.com/download/
 
-2)Download and Install Visual Studio Code. Here's the link:
+2) Download and Install Visual Studio Code. Here's the link:
 https://code.visualstudio.com/
 
 3) Clone Repository as follows:
@@ -38,14 +38,36 @@ https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_open-a-git-reposi
 5) Alternatively you can open the repository in a Jupyter notebook.
 Refer to these snapshots for a step-by-step guide:
 
-Step 1:
+Step 1: Change directory. Open FUND_DATA directory.
 
-![Step_1](./img/Step_1.PNG)
+![step_1](./img/step_1.PNG)
 
-Step 2:
+Step 2: Run command jupyter notebook
 
-![Step_2](./img/Step_2.PNG)
+![step_2](./img/step_2.PNG)
 
-Step 3:
+Step 3: The notebook opens in a web browser. It contains tasks.ipynb and project,ipynb
 
-![Step_3](./img/Step_3.PNG)
+![step_3](./img/step_3.PNG)
+
+
+## ISSUES
+### Troubleshooting cloning errors
+
+https://docs.github.com/en/repositories/creating-and-managing-repositories/troubleshooting-cloning-errors
+
+If you're having trouble cloning a repository, check these common errors.
+1. HTTPS cloning errors
+ - Check your Git version
+ - Ensure the remote is correct
+ - Provide an access token
+ - Check your permissions
+ - Use SSH instead
+ 
+ 2. Error: Repository not found
+  - Check your spelling
+  - Checking your permissions
+  - Check your SSH access
+  - Check that the repository really exists
+  
+ 3. Error: Remote HEAD refers to nonexistent ref, unable to checkout
