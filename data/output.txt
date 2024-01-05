@@ -222,3 +222,24 @@ The total number of numbers contained in the iris.csv file is 1129
 The total number of setosa contained in the iris.csv file is 50
 The total number of versicolor contained in the iris.csv file is 50
 The total number of virginica contained in the iris.csv file is 50
+
+9 COLUMNS
+Index(['sepal_length', 'sepal_width', 'petal_length', 'petal_width', 'species',
+       'sl*sw', 'pl/pw', 'sl+sw', 'pl-pw'],
+      dtype='object')
+PETAL LENGTH DIVIDED BY PETAL WIDTH
+
+0    7.0
+1    7.0
+2    6.5
+3    7.5
+4    7.0
+Name: pl/pw, dtype: float64
+PETAL LENGTH DIVIDED BY PETAL WIDTH
+
+0    7.0
+1    7.0
+2    6.5
+3    7.5
+4    7.0
+Name: pl/pw, dtype: float64
