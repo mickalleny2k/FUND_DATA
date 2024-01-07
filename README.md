@@ -1,28 +1,35 @@
 # FUNDAMENTALS of DATA ANALYTICS
 
-# PROJECT by Michael Allen
+# Project and Tasks by Michael Allen
 ## INTRODUCTION
+The repository contains two main sections:
+- Tasks
+- Project on Fisher's Iris data set.
 Fisher's Iris data set is a multivariate data set introduced by Ronald Fisher in 1936, as an example of linear discriminant analysis i.e. a method used in statistics to find a linear combination of features that characterizes or separates two or more classes of objects or events. In this study, Fisher wished to investigate if the species of an Iris flower could be identified by examining its petal and sepal length and width.
 
 ## PURPOSE
- • The project is to create a notebook investigating the variables and
-data points within the well-known iris flower data set associated
-with Ronald A Fisher.
+- The purpose of the project is to create a notebook investigating the variables and data points within the well-known iris flower data set associated with Ronald A Fisher.
+- The purpose of the tasks section is to perform 5 tasks successfully.
 
 ## CONTENTS
-• In the notebook, I discuss the classification of each
-variable within the data set according to common variable types
-and scales of measurement in mathematics, statistics, and Python.
-• Select, demonstrate, and explain the most appropriate summary
-statistics to describe each variable.
-• Select, demonstrate, and explain the most appropriate plot(s) for
-each variable
-• The notebook follows a cohesive narrative about the data
-set
+### Contents of Tasks
+All 5 tasks should be completed in a single notebook called tasks.ipynb.
+The 5 tasks are as follows:
+- Verify, using Python, that the conjecture is true for
+the first 10,000 positive integers.
+- Give an overview of the famous penguins data set explaining the types of variables it contains.
+- For each of the variables in the penguins data set 3 suggest what probability distribution from the numpy random distributions list is the most appropriate to model the variable.
+-  Suppose you are flipping two coins, each with a probability p of giving heads. Plot the entropy of the total number of heads versus p.
+-  Create an appropriate individual plot for each of the variables in the penguin data set.
+
+### Contents of Project 
+- In the project.ipynb notebook, I discuss the classification of each variable within the data set according to common variable types and scales of measurement in mathematics, statistics, and Python.
+- Select, demonstrate, and explain the most appropriate summary statistics to describe each variable.
+- Select, demonstrate, and explain the most appropriate plot(s) for each variable
+- The notebook follows a cohesive narrative about the data set
 
 ## INSTRUCTIONS
-
-## How to clone and run notebook
+### How to clone and run notebook
 1. Download and Install Anaconda. Here's the link:
 https://www.anaconda.com/download/
 
@@ -30,12 +37,31 @@ https://www.anaconda.com/download/
 https://code.visualstudio.com/
 
 3) Clone Repository as follows:
+- On GitHub.com, navigate to the main page of the repository.
+  
+- Above the list of files, click Code.
+  ![code](https://docs.github.com/assets/cb-14601/mw-1440/images/help/repository/code-button.webp)
+  
+- Copy the URL for the repository.
+  ![url](https://docs.github.com/assets/cb-69468/mw-1440/images/help/repository/https-url-clone-cli.webp)
+  
+- Open Git Bash.
+  
+- Change the current working directory to the location where you want the cloned directory.
+  
+- Type git clone, and then paste the URL you copied earlier.
+  
+- Press Enter to create your local clone.
+  
+The steps for cloning a repository are detailed in the link below:
 https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
-4) Open Repository in Visual Studio Code
+5) Open Repository in Visual Studio Code
 https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_open-a-git-repository
+Alternatively you can open the repository in a Jupyter notebook.
 
-5) Alternatively you can open the repository in a Jupyter notebook.
+### How to open the repository in a Jupyter notebook
+
 Refer to these snapshots for a step-by-step guide:
 
 Step 1: Change directory. Open FUND_DATA directory.
